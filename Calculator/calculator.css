@@ -1,0 +1,11 @@
+.container {
+    margin: 0 auto;
+}
+
+#calculator {
+    width: 300px;
+    height: 400px;
+    background-color: #BEC64C;
+    border: 2px solid #C2CCCD;
+    border-radius: 10px;
+}
