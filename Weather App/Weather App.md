@@ -1,4 +1,4 @@
-A weather app that shows local weather.
+A weather app that shows your local weather.
 
 User Story: I can see the weather in my current location.
 
